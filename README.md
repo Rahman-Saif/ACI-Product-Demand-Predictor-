@@ -168,30 +168,7 @@ Best Model Selection
 
 ---
 
-## 📂 Project Structure
 
-```text
-ACI-Product-Demand-Predictor/
-│
-├── data/
-│   ├── synthetic_dataset.csv
-│
-├── notebooks/
-│   ├── demand_prediction.ipynb
-│
-├── models/
-│   ├── trained_models.pkl
-│
-├── images/
-│   ├── correlation_heatmap.png
-│   ├── demand_distribution.png
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
 
 ## 👨‍💻 Author
 
